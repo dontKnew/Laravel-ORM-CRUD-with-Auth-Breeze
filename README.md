@@ -55,9 +55,9 @@
      - An Verification email must be required before login
   
  ## PROJECT DEMO
-    <img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/dashboard.png" alt="dashboard">
-    <img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/dashboard.png" alt="login">
-    <img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/forget%20pass.png" alt="forgetpassword">
-     <img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/update%20dash.png" alt="dashboard">
+<img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/dashboard.png" alt="dashboard">
+<img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/dashboard.png" alt="login">
+<img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/forget%20pass.png" alt="forgetpassword">
+<img src="https://github.com/dontKnew/Laravel-ORM-CRUD-with-Auth-Breeze/blob/master/public/images/update%20dash.png" alt="dashboard">
     
      
